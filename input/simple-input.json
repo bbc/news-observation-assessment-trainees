@@ -1,0 +1,60 @@
+{
+  "observations": [
+    {
+      "locatedAt": [
+        -5.933,
+        54.583
+      ],
+      "meteoGroupStationId": "3924",
+      "meteoGroupStationName": "Belfast/Harbour",
+      "stationLocation": [
+        -5.883333,
+        54.6
+      ],
+      "stationTimeZoneName": "Europe/London",
+      "observedFrom": "2017-06-02T11:00:00+01:00",
+      "observedUntil": "2017-06-02T11:00:00+01:00",
+      "observedPeriod": "PT0S",
+      "airTemperatureInCelsius": 16.0,
+      "airTemperatureInFahrenheit": 60.8,
+      "airTemperatureInKelvin": 289.15,
+      "feelsLikeTemperatureInCelsius": 15.7,
+      "feelsLikeTemperatureInFahrenheit": 60.260002,
+      "feelsLikeTemperatureInKelvin": 288.85,
+      "airPressureInHectoPascal": 1015.0,
+      "windSpeedInMeterPerSecond": 4.1,
+      "windSpeedInKilometerPerHour": 14.759999,
+      "windSpeedInMilesPerHour": 9.171438,
+      "windSpeedInBeaufort": 3.0,
+      "windSpeedInKnots": 7.96976,
+      "windDirectionInDegree": 230,
+      "dewPointTemperatureInCelsius": 7.0,
+      "dewPointTemperatureInFahrenheit": 44.6,
+      "dewPointTemperatureInKelvin": 280.15,
+      "relativeHumidityInPercent": 55,
+      "effectiveCloudCoverInOcta": 5.0,
+      "weatherSymbolCode": 320000,
+      "visibilityInMeter": 235366,
+      "totalCloudCoverInOcta": 5
+    },
+    {
+      "locatedAt": [
+        -5.933,
+        54.583
+      ],
+      "meteoGroupStationId": "3924",
+      "meteoGroupStationName": "Belfast/Harbour",
+      "stationLocation": [
+        -5.883333,
+        54.6
+      ],
+      "stationTimeZoneName": "Europe/London",
+      "observedFrom": "2017-06-02T10:00:00+01:00",
+      "observedUntil": "2017-06-02T11:00:00+01:00",
+      "observedPeriod": "PT1H",
+      "pressureTendency": "STEADY",
+      "pressureTendencyCode": 4,
+      "pressureChangeInHectoPascal": 0.0
+    }
+  ]
+}
