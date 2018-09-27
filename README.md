@@ -109,7 +109,7 @@ The following details will help to generate the output content, you are advised 
 Create your solution in a clearly marked and sensibly named folder which contains all your source files. 
 
 ## Must Have:
-* All your source code files
+* Upload all your source code, input and output files.
 * An output file in JSON format produced using the data from the simple-input.json file.
 * You MUST not edit the structure of the data in the JSON file.
  
