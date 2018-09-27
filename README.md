@@ -111,7 +111,7 @@ Create your solution in a clearly marked and sensibly named folder which contain
 ## Must Have:
 * Upload all your source code, input and output files.
 * An output file in JSON format produced using the data from the simple-input.json file.
-* You MUST not edit the structure of the data in the JSON file.
+* You MUST not edit the structure of the data in the input JSON file.
  
 
 ## Bonus Points:
