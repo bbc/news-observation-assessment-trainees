@@ -11,7 +11,7 @@ We are looking for you to demonstrate:
 
 Observations made primarily for the purpose of providing information on the present state of the atmosphere and for weather forecasts are termed synoptic. These observations over the land surface include measurements of a wide range of meteorological elements made at observing stations such as Camborne in Cornwall.
 
-You should write an application that takes the observation data from the input/simple-input.json file and transform this data to produce a simple-output.json file similar to the format below (N.B. The values are just an example): 
+You should write an application that takes the observation data from the input/simple-input.json file and transforms this data to produce a simple-output.json file similar to the format below (N.B. The values are just an example): 
 
 ```json
 {
